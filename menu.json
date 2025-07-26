@@ -1,0 +1,10 @@
+{
+  "week": "July 29 - August 2",
+  "items": [
+    { "day": "Monday", "meal": "Chicken curry, rice, lentils, salad", "price": 170 },
+    { "day": "Tuesday", "meal": "Fish vindaye, basmati, chutney, banana", "price": 180 },
+    { "day": "Wednesday", "meal": "Briyani, pickle, yogurt", "price": 190 },
+    { "day": "Thursday", "meal": "Veg curry, roti, satini", "price": 160 },
+    { "day": "Friday", "meal": "Pasta bowl, garlic bread", "price": 170 }
+  ]
+}
