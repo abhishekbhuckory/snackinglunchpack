@@ -1,10 +1,11 @@
 {
-  "week": "July 29 - August 2",
+  "week": "August 4 - August 8",
   "items": [
-    { "day": "Monday", "meal": "Chicken curry, rice, lentils, salad", "price": 170 },
-    { "day": "Tuesday", "meal": "Fish vindaye, basmati, chutney, banana", "price": 180 },
-    { "day": "Wednesday", "meal": "Briyani, pickle, yogurt", "price": 190 },
-    { "day": "Thursday", "meal": "Veg curry, roti, satini", "price": 160 },
-    { "day": "Friday", "meal": "Pasta bowl, garlic bread", "price": 170 }
+    { "day": "Monday 04.08.2025", "meal": "Chicken curry, rice, lentils, salad (veg), yoghurt", "price": 285 },
+    { "day": "Tuesday 05.08.2025", "meal": "Seafood spaghetti, pumpkin gratin, salad (veg), yoghurt", "price": 285 },
+    { "day": "Wednesday 06.08.2025", "meal": "Fish curry (Aigre doux), rice, Stirred veggies, salad (veg), yoghurt", "price": 285 },
+    { "day": "Thursday 07.08.2025", "meal": "Club Sandwich (Chicken, cheese, eggs and veggies), French Fries, salad (veg), yoghurt", "price": 285 },
+    { "day": "Friday 08.08.2025", "meal": "Butter chicken, Saffron rice, Stirred veggies, salad (veg)", "price": 285 }
   ]
 }
+
